@@ -1,0 +1,96 @@
+2024-06-20 06:01:24.860903-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:01:25.522523-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:01:34.847654-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+insert into produto (imagem_url,nome,preco,quantidade,id) values (?,?,?,?,default) [42104-224]
+2024-06-20 06:01:34.879617-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:01:37.653555-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:01:38.632813-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:01:39.346400-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:01:39.567272-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:01:40.163929-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:01:41.697823-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:02:21.928361-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:02:30.104748-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+insert into produto (imagem_url,nome,preco,quantidade,id) values (?,?,?,?,default) [42104-224]
+2024-06-20 06:02:30.134731-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:11:19.648322-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:11:25.481020-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+insert into produto (imagem_url,nome,preco,quantidade,id) values (?,?,?,?,default) [42104-224]
+2024-06-20 06:11:25.516001-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:11:52.881044-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:11:59.553369-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+insert into produto (imagem_url,nome,preco,quantidade,id) values (?,?,?,?,default) [42104-224]
+2024-06-20 06:11:59.584351-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:12:01.441631-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:12:07.743851-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:12:12.908160-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+insert into produto (imagem_url,nome,preco,quantidade,id) values (?,?,?,?,default) [42104-224]
+2024-06-20 06:12:12.935135-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:12:37.897223-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:12:46.853783-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+insert into produto (imagem_url,nome,preco,quantidade,id) values (?,?,?,?,default) [42104-224]
+2024-06-20 06:12:46.885570-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:12:55.849334-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:13:03.572997-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+insert into produto (imagem_url,nome,preco,quantidade,id) values (?,?,?,?,default) [42104-224]
+2024-06-20 06:13:03.602979-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:13:50.328683-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
+2024-06-20 06:13:55.098685-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+insert into produto (imagem_url,nome,preco,quantidade,id) values (?,?,?,?,default) [42104-224]
+2024-06-20 06:13:55.129669-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUTO" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.imagem_url,p1_0.nome,p1_0.preco,p1_0.quantidade from produto p1_0 [42104-224]
